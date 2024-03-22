@@ -5,4 +5,4 @@ Demo Repository für den Kurs DCV - IT - Projektmanager
 Dieses Repository dient als Demo für den Kurs DCV - IT - Projektmanager. Es enthält eine einfache HTML-Seite, die mit Hilfe von GitHub Pages veröffentlicht wird.
 
 ## GitHub Pages
-Die HTML-Seite ist unter folgender URL erreichbar: https://comixtrip.github.io/????/
+Die HTML-Seite ist unter folgender URL erreichbar: https://comixtrip.github.io/dcv-it-pm-2024/
